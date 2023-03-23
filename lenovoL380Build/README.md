@@ -9,8 +9,8 @@ bluetooth
 webcam
 power control system
 external display
+touchpad glitches -> elan driver
+walcom stylus, not recognized
 
 The good:
 it boots
-
-
